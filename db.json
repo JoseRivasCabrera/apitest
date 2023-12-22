@@ -7,7 +7,16 @@
       "precioDescuento": "13.560",
       "precioNeto": "16.650",
       "descuento": "15",
-      "id": "BYOS009"
+      "id": "BYOS009",
+    },
+    {
+      "nombreCategoria": "Mochila infantil",
+      "numbVentas": "1",
+      "nombre": "Bella mochila de flores",
+      "precioDescuento": "13.500",
+      "precioNeto": "18950",
+      "descuento": "1",
+      "id": "BYOS999"
     },
     {
       "nombreCategoria": "Mochila infantil",
